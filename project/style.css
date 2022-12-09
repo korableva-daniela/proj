@@ -1,0 +1,68 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+
+h1 {
+    font-family: "Montserrat";
+    color: black;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 40px;
+}
+p {
+    font-family: "Montserrat";
+    color: #696969;
+    font-size: 18px;
+}
+
+.support-achievement-wrapper1 {
+
+  padding-left: 20px;
+  padding-top: 5px;
+  padding-bottom: 10px;
+  min-height: 80px;
+  height: 100%;
+  font-family: "Montserrat";
+}
+.support-achievement-wrapper1{
+  margin-bottom:30px;
+}
+.support-achievement-description {
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 1.25;
+    color: #696969;
+}
+.advantage-title {
+    font-family: "Montserrat";
+    color: black;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 20px;
+}
+.advantage-body {
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 1;
+    color: #696969;
+}
+.advantage-num {
+    font-family: "Montserrat";
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 20px;
+}
+.advantage {
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    min-height: 80px;
+    height: 100%;
+    font-family: "Montserrat";
+    border: 6px solid #F5F5F5;
+}
